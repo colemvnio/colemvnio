@@ -30,6 +30,8 @@
 
 - 🌱 I’m currently learning **to iteratively develop LLM based applications such as RAGs, Inference Endpoints and local LLMs.**
 
+- ‎‍💻 I'm currently developing a PII Anonymizer boilerplate.
+
 - ☁️ I have a very keen interest in generative ai and data science. I'm discovering these topics through AWS Bedrock, Hugging Face and Pytorch.
 
 - 💬 Ask me about **MongoDB, LLMs or Shibas!**
