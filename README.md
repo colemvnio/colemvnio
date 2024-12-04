@@ -29,13 +29,13 @@
 
 - 🌱 I’m currently learning **to iteratively develop LLM based applications such as RAGs, Inference Endpoints and local LLMs.**
 
-- ‎‍💻 I'm currently developing a PII Anonymizer boilerplate.
+- ‎‍💻 I'm currently developing a stock market PoC.
 
-- ☁️ I have a very keen interest in generative ai and data science. I'm discovering these topics through AWS Bedrock, Hugging Face and Pytorch.
+- ☁️ I have a very keen interest in software design and generative ai. I'm discovering these topics through AWS Bedrock, Hugging Face and general work.
 
 - 💬 Ask me about **MongoDB, LLMs or Shibas!**
 
-- 📫 Feel free to reach out [here](https://www.linkedin.com/in/pcolemvn/) or book a timeslot [here](https://app.reclaim.ai/m/patrick-coleman/quick-meeting)
+- 📫 Feel free to reach out [here](https://bento.me/patrick-c) or book a timeslot [here](https://app.reclaim.ai/m/patrick-coleman/quick-meeting)
 <!--Intro end-->
 
 
